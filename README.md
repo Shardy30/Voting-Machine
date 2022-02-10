@@ -18,16 +18,20 @@ Only the VotingMachine.mlapp file has to be run since it’s the main file and g
 
 When we run the VotingMachine.mlapp file, we get to see the following screen - 
 
+![Anilist Interface to search anime](https://github.com/Shardy30/Github_Screenshots/blob/main/Github_ScreenShots/Voting-Machine_ss1.png)
+
 If Vote button against any of the party is pressed, the vote gets recorded and the voting state turns off for 4 seconds after giving the user a visual and audio feedback.
 
 When the reselts need to be checked, a predefined password has to be entered by the admin only after which the results would be visible.
 
 The result screen contains various information and looks something like this - 
 
+![Anilist Interface to search anime](https://github.com/Shardy30/Github_Screenshots/blob/main/Github_ScreenShots/Voting-Machine_ss2.png)
+
 The Candidate names, parties and all other infos are modifiable and it can be done in the Databases folder. Remember that the party logo must have same name as the party with .jpg extension.
 
 
 ## Working FlowChart
 
-
+![Anilist Interface to search anime](https://github.com/Shardy30/Github_Screenshots/blob/main/Github_ScreenShots/Voting-Machine_ss3.png)
 
